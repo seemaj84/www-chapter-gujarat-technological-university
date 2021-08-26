@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Seema B. Joshi](mailto:seema.joshi@owasp.org)
+* [S. D. Panchal](mailto:sd.panchal@owasp.org)
+* [Smita Smita](mailto:smita.smita@owasp.org)
